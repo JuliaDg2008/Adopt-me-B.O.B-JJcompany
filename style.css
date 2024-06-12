@@ -1,0 +1,27 @@
+:root {
+    --cor-de-fundo: #FAFF00;
+    --black: black;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -34px;
+   
+}
+
+.introducao {
+    display: flex;
+    margin: -28px 0 0 0;
+    padding: 20px 0;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}

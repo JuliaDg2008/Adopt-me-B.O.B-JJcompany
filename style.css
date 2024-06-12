@@ -22,7 +22,7 @@ header {
 .introducao {
     display: flex;
     margin: -28px 0 0 0;
-    padding: 20px 0;
+    padding: 14px 17px;
     background-color: var(--cor-de-fundo);
     border-radius: 19px ;
     border: 3px solid var(--black);

@@ -15,7 +15,7 @@ header {
     align-items: center;
     justify-content: space-between;
     margin-top: -34px;
-    
+
 }
 
 
@@ -30,7 +30,7 @@ header {
 
 .desenvolvimento {
     display: flex;
-    margin: -28px 0 0 0;
+    margin: 25px 0 0 0;
     padding: 20px 0;
     background-color: var(--cor-de-fundo);
     border-radius: 19px ;

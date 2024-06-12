@@ -25,3 +25,30 @@ header {
     border-radius: 19px ;
     border: 3px solid var(--black);
 }
+
+.desenvolvimento {
+    display: flex;
+    margin: -28px 0 0 0;
+    padding: 20px 0;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}
+
+.conclusao {
+    display: flex;
+    margin: -28px 0 0 0;
+    padding: 20px 0;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}
+
+.adotar {
+    display: flex;
+    margin: -28px 0 0 0;
+    padding: 20px 0;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}

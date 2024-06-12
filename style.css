@@ -9,13 +9,15 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+
 header {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-top: -34px;
-   
+    
 }
+
 
 .introducao {
     display: flex;

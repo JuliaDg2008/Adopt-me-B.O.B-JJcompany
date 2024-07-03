@@ -75,6 +75,6 @@ header {
      grid-template-columns: 50% 50% ;
 }
 
-footer a{
-    color: aqua;
-}
+footer{    display: flex;
+    justify-content: space-around;
+    margin-top: 36px;}

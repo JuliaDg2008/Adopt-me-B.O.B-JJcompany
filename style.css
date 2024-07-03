@@ -58,3 +58,10 @@ header {
         justify-content: space-around;
     }
 }
+
+#equipe { 
+    display: grid;
+   text-align: center;
+    margin-top: 70px;
+     grid-template-columns: 50% 50% ;
+}

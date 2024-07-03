@@ -61,8 +61,7 @@ header {
 
 .euejoao {
     display: flex;
-    margin: 25px 0 0 0;
-    padding: 8px 17px;
+
     background-color: #faff000f;
     border-radius: 19px ;
     border: 3px solid var(--black);

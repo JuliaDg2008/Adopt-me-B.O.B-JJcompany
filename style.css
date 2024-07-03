@@ -66,11 +66,12 @@ header {
     background-color: var(--cor-de-fundo);
     border-radius: 19px ;
     border: 3px solid var(--black);
-}
-
-#equipe { 
+    
+    #equipe { 
     display: grid;
    text-align: center;
     margin-top: 70px;
      grid-template-columns: 50% 50% ;
 }
+}
+

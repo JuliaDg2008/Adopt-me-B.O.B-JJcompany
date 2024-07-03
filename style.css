@@ -66,7 +66,7 @@ header {
     background-color: var(--cor-de-fundo);
     border-radius: 19px ;
     border: 3px solid var(--black);
-}]
+}
 
 #equipe { 
     display: grid;

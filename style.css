@@ -84,4 +84,6 @@ footer {
     margin-top: 60px;
     border-radius: 19px ;
     border: 3px solid var(--black);
+    margin: 25px 0 0 0;
+    padding: 8px 17px;
 }
